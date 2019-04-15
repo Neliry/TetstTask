@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TestTask</string>
+    <string name="item_1">Solar System</string>
+    <string name="item_2">Изучение космоса</string>
+    <string name="item_3">Суперсооружения</string>
+    <string name="no_videos">There is no video in the playlist</string>
+</resources>
